@@ -1,0 +1,21 @@
+.card-product {
+  display: flex;
+  color: black;
+  background-color: white;
+  box-shadow: 5px 0px 5px rgb(53, 96, 17);
+  align-items: center;
+  border: 2px solid rgb(53, 96, 17);
+  border-radius: 4px;
+}
+
+.card-product img {
+  height: 150px;
+}
+
+.card-product h2, .card-product p {
+  justify-content: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
